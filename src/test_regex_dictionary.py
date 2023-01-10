@@ -1,5 +1,5 @@
 import unittest as ut
-from regex_dict import RegexDict
+from regex_dictionary import RegexDict
 
 
 class TestRegexDict(ut.TestCase):
